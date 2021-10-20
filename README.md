@@ -1,9 +1,13 @@
 # Evaluation-of-weather-forecast-with-DL
 
 •	Abstract
+
 •	Introduction
+
 •	Personal Motivation
+
 •	Research Aims and objectives
+
 •	Structure of the Paper
 
 •	Foundation
