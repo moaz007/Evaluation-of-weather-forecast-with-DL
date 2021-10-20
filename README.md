@@ -19,9 +19,15 @@
 •	Recurrent Neural Network
 
 •	Conditional Restricted Boltzmann Machines
+
 •	Convolution Network
+
 •	Experiment Model Training
+
 •	Performance Evaluation
+
 •	Formal Researches
+
 •	Result
+
 •	Conclusion
